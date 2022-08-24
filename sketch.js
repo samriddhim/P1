@@ -1,0 +1,8 @@
+console.log ("HII!! My name is Samriddhi Maran.")
+console.log ("I am 13 years old.")
+console.log("I study in 8th grade.")
+console.log ("I live in Bhopal.")
+console.log ("My hobbies are painting , dancing and singing.")
+console.log("one funfact about me: samriddhi means prosperity. ")
+console.log ("I have two dogs and i love them a lot.")
+console.log("My favourite book is The Harry Potter Series.")
